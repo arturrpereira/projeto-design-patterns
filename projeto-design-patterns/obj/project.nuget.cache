@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSv7fK0V5ejEv+7zp9cS803f5XiaTUrdBjz9JljOYA1WruunhGXPmJb6cTN36hALOMscbbJ5wLHD6TBtXplEKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artuh\\OneDrive\\Área de Trabalho\\Trabalho\\projeto-design-patterns\\projeto-design-patterns\\projeto-design-patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artuh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\artuh\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\artuh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

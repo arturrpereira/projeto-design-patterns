@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="gui\Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gui\inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gui\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gui\telaInserir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gui\viewCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gui\viewCompracs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
